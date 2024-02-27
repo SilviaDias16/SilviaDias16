@@ -1,7 +1,9 @@
 ### Welcome to my portfolio!
-I've been a Technical Author for more than 17 years, and have had the pleasure of working for some great companies in FinTech domain. My goal is to ensure that the documentation I create is easy to understand and meets customer needs.  
-  
-Since most of my work as been under non-disclosure agreement, I am unable to share the actual work samples. However, I've created some samples for my portfolio purpose, which will give you an idea of my writing and documenting skills.
+With over 17 years of experience as a Technical Author, I've had the privilege of collaborating with esteemed companies within the FinTech domain. Throughout my career, my primary objective has been to craft documentation that is not only easily understandable but also precisely tailored to meet the needs of customers.
+
+Given the nature of my work, the majority of my projects have been conducted under non-disclosure agreements. As such, I am regrettably unable to provide direct access to my comprehensive portfolio. However, I have meticulously prepared representative samples that encapsulate the essence of my writing and documentation prowess.
+
+These samples serve as a testament to my commitment to clarity, accuracy, and customer-centricity in all my endeavors. While they may not reflect specific client projects, they offer a glimpse into the caliber of work you can expect from me.
 
 <!--
 **SilviaDias16/SilviaDias16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
